@@ -1,9 +1,9 @@
 # Bem-Vindos ao meu GitHub! :star:
 
 :mauro-carlos: Me chamo, Mauro Carlos de Oliveira!  
-:wrench: Técnica em Eletrônica e Tecnólogo em Redes de Computadores - UNIC  
+:wrench: Técnico em Eletrônica e Tecnólogo em Redes de Computadores - UNIC  
 :mortar_board: Tecnólogo em Redes de Computadores - UNIC - CUIABÁ - MT  
-:milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
+:milky_way: Sou um observador do Universo que está em eterno aprendizado  
 💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
 :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
